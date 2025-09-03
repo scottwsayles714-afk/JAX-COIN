@@ -1,2 +1,2 @@
 # JAX-COIN
-New and upcoming crypto currency to back local business transactions 
+New and upcoming crypto currency used to back local business and personal transactions 
